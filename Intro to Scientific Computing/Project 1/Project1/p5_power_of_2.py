@@ -1,5 +1,5 @@
 #
-# add your name and smu email address here 
+# Noah Denefe ndenefe@smu.edu
 # (as in professional public domain code. just in case someone see your 
 #  brilliant code and want to contact you, e.g. to offer you a job. 
 #  no joking here, this problem is likely the hardest in Project 1)
@@ -14,12 +14,17 @@ def find_power_of_2(n1, n2):
        (1) either n1 or n2 or both can be negative! 
        (2) if you use loop with step=2, then be careful about -1 and 1, they are power_of_2. 
     ''' 
+    L1=[]
+    for i in range(n1,n2):
+        if i**.5 == int(i**.5):
+            L1.append(i)
+    return L1
 
 
 #===================================================================
 def  is_power_of_2 (n):   
     ''' return true if n is a power of 2, and False if not '''
-
+    return (n**.5==int(n**.5))
 
 
 
@@ -28,7 +33,11 @@ def find_power_of_2_fast(n1, n2):   #a fast way to find power of 2
     '''The inputs are two integers n1 < n2, find all the numbers in [n1, n2] that 
        are power of 2, return them in increasing order in a list.
     ''' 
-
+    L1=[]
+    for i in range(n1,n2):
+        if i**.5 == int(i**.5):
+            L1.append(i)
+    return L1
 
 
 #===================================================================

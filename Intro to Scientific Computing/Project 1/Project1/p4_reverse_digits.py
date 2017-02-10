@@ -25,13 +25,14 @@ def  reverse_digits(num):
     s=s.strip('-')
     s=s.strip('+')
     y=''
-    for i in range(len(s),1,-1):
-        y+=s[i-1]
+    for i in range(len(s)-1,0,-1):
+        y+=s[i]
+    y+=s[:1]
     
     if neg:
-        return int(y)*-1
-    else:
-        return int(y)       
+        y='-'+y
+        
+    return y       
         
         
 
