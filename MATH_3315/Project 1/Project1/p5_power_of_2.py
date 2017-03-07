@@ -15,10 +15,17 @@ def find_power_of_2(n1, n2):
        (2) if you use loop with step=2, then be careful about -1 and 1, they are power_of_2. 
     ''' 
     L1=[]
-    x=0
-    for i in range(n1+1,n2+1):
-        x=abs(i)**.5        
-        if type(x) is int:
+    for i in range(n1,n2+1):
+        j=0
+        if i%2==0:
+            while 2**j<=10**8:
+                if 2**j==abs(i):            
+                    L1.append(i)
+                    break
+                if 2**j>abs(i):
+                    break
+                j+=1
+        if abs(i)==1:
             L1.append(i)
     return L1
 
@@ -26,8 +33,16 @@ def find_power_of_2(n1, n2):
 #===================================================================
 def  is_power_of_2 (n):   
     ''' return true if n is a power of 2, and False if not '''
-    return (abs(n)**.5==int(abs(n)**.5))
-
+    i=0
+    if (n%2 != 0) and (abs(n)!=1):
+        return False
+        
+    while 2**i<=10**8:
+        if(abs(n)==2**i):
+            return True
+            i+=1
+            
+    return False
 
 
 #===================================================================
@@ -35,13 +50,7 @@ def find_power_of_2_fast(n1, n2):   #a fast way to find power of 2
     '''The inputs are two integers n1 < n2, find all the numbers in [n1, n2] that 
        are power of 2, return them in increasing order in a list.
     ''' 
-    L1=[]
-    x=0
-    for i in range(n1+1,n2+1):
-        x=abs(i)**.5        
-        if type(x) is int:
-            L1.append(i)
-    return L1
+    
 
 
 #===================================================================

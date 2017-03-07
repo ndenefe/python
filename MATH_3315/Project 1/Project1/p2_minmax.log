@@ -1,0 +1,152 @@
+Run test 0,  pass is True
+	your min is -28.69249,  np_min is -28.6925
+	your id_min=[369],  np id_min=[368]
+	your max is 33.52972,  np_max is 33.52972
+	your id_max=[82],  np id_max=[81]
+Run test 1,  pass is True
+	your min is -31.02206,  np_min is -31.0221
+	your id_min=[252, 420],  np id_min=[251 419]
+	your max is 23.66919,  np_max is 23.66919
+	your id_max=[447],  np id_max=[446]
+Run test 2,  pass is True
+	your min is -34.73867,  np_min is -34.7387
+	your id_min=[432],  np id_min=[431]
+	your max is 27.47059,  np_max is 27.47059
+	your id_max=[492],  np id_max=[491]
+Run test 3,  pass is True
+	your min is -25.90614,  np_min is -25.9061
+	your id_min=[387],  np id_min=[386]
+	your max is 23.46306,  np_max is 23.46306
+	your id_max=[442],  np id_max=[441]
+Run test 4,  pass is True
+	your min is -24.18806,  np_min is -24.1881
+	your id_min=[317],  np id_min=[316]
+	your max is 33.35421,  np_max is 33.35421
+	your id_max=[239, 401],  np id_max=[238 400]
+Run test 5,  pass is True
+	your min is -29.04692,  np_min is -29.0469
+	your id_min=[448],  np id_min=[447]
+	your max is 26.21762,  np_max is 26.21762
+	your id_max=[1],  np id_max=[0]
+Run test 6,  pass is True
+	your min is -26.49326,  np_min is -26.4933
+	your id_min=[4],  np id_min=[3]
+	your max is 23.18959,  np_max is 23.18959
+	your id_max=[358],  np id_max=[357]
+Run test 7,  pass is True
+	your min is -33.43086,  np_min is -33.4309
+	your id_min=[244],  np id_min=[243]
+	your max is 33.29010,  np_max is 33.29010
+	your id_max=[463],  np id_max=[462]
+Run test 8,  pass is True
+	your min is -30.49873,  np_min is -30.4987
+	your id_min=[358],  np id_min=[357]
+	your max is 29.81957,  np_max is 29.81957
+	your id_max=[308],  np id_max=[307]
+Run test 9,  pass is True
+	your min is -33.04916,  np_min is -33.0492
+	your id_min=[143, 241],  np id_min=[142 240]
+	your max is 26.03403,  np_max is 26.03403
+	your id_max=[228, 380],  np id_max=[227 379]
+Run test 10,  pass is True
+	your min is -29.58914,  np_min is -29.5891
+	your id_min=[88],  np id_min=[87]
+	your max is 26.90949,  np_max is 26.90949
+	your id_max=[312],  np id_max=[311]
+Run test 11,  pass is True
+	your min is -31.31328,  np_min is -31.3133
+	your id_min=[123, 205],  np id_min=[122 204]
+	your max is 28.08733,  np_max is 28.08733
+	your id_max=[263, 441],  np id_max=[262 440]
+Run test 12,  pass is True
+	your min is -29.92869,  np_min is -29.9287
+	your id_min=[413],  np id_min=[412]
+	your max is 25.48866,  np_max is 25.48866
+	your id_max=[298],  np id_max=[297]
+Run test 13,  pass is True
+	your min is -26.89337,  np_min is -26.8934
+	your id_min=[489],  np id_min=[488]
+	your max is 33.75055,  np_max is 33.75055
+	your id_max=[198, 330],  np id_max=[197 329]
+Run test 14,  pass is True
+	your min is -32.82896,  np_min is -32.8290
+	your id_min=[388],  np id_min=[387]
+	your max is 29.03151,  np_max is 29.03151
+	your id_max=[163],  np id_max=[162]
+Run test 15,  pass is True
+	your min is -30.47430,  np_min is -30.4743
+	your id_min=[383],  np id_min=[382]
+	your max is 26.82897,  np_max is 26.82897
+	your id_max=[167, 281, 471],  np id_max=[166 280 470]
+Run test 16,  pass is True
+	your min is -27.21032,  np_min is -27.2103
+	your id_min=[234, 390],  np id_min=[233 389]
+	your max is 23.78157,  np_max is 23.78157
+	your id_max=[162, 270, 450],  np id_max=[161 269 449]
+Run test 17,  pass is True
+	your min is -35.38291,  np_min is -35.3829
+	your id_min=[14, 26, 46],  np id_min=[13 25 45]
+	your max is 29.78833,  np_max is 29.78833
+	your id_max=[242, 406],  np id_max=[241 405]
+Run test 18,  pass is True
+	your min is -25.33548,  np_min is -25.3355
+	your id_min=[138, 230, 386],  np id_min=[137 229 385]
+	your max is 35.10538,  np_max is 35.10538
+	your id_max=[444],  np id_max=[443]
+Run test 19,  pass is True
+	your min is -34.69879,  np_min is -34.6988
+	your id_min=[442],  np id_min=[441]
+	your max is 27.34152,  np_max is 27.34152
+	your id_max=[448],  np id_max=[447]
+Run test 20,  pass is True
+	your min is -30.97836,  np_min is -30.9784
+	your id_min=[412],  np id_min=[411]
+	your max is 31.18623,  np_max is 31.18623
+	your id_max=[354],  np id_max=[353]
+Run test 21,  pass is True
+	your min is -26.75374,  np_min is -26.7537
+	your id_min=[73],  np id_min=[72]
+	your max is 34.24112,  np_max is 34.24112
+	your id_max=[478],  np id_max=[477]
+Run test 22,  pass is True
+	your min is -25.45530,  np_min is -25.4553
+	your id_min=[327],  np id_min=[326]
+	your max is 25.55065,  np_max is 25.55065
+	your id_max=[157],  np id_max=[156]
+Run test 23,  pass is True
+	your min is -24.42576,  np_min is -24.4258
+	your id_min=[388],  np id_min=[387]
+	your max is 28.46845,  np_max is 28.46845
+	your id_max=[183, 305],  np id_max=[182 304]
+Run test 24,  pass is True
+	your min is -29.61549,  np_min is -29.6155
+	your id_min=[288, 480],  np id_min=[287 479]
+	your max is 35.97808,  np_max is 35.97808
+	your id_max=[63, 105, 175],  np id_max=[ 62 104 174]
+Run test 25,  pass is True
+	your min is -31.59986,  np_min is -31.5999
+	your id_min=[352],  np id_min=[351]
+	your max is 35.39678,  np_max is 35.39678
+	your id_max=[433],  np id_max=[432]
+Run test 26,  pass is True
+	your min is -32.18178,  np_min is -32.1818
+	your id_min=[229],  np id_min=[228]
+	your max is 34.70021,  np_max is 34.70021
+	your id_max=[3, 5, 11, 21, 35, 61],  np id_max=[ 2  4 10 20 34 60]
+Run test 27,  pass is True
+	your min is -25.07295,  np_min is -25.0729
+	your id_min=[147, 245, 411],  np id_min=[146 244 410]
+	your max is 31.56613,  np_max is 31.56613
+	your id_max=[392],  np id_max=[391]
+Run test 28,  pass is True
+	your min is -24.93755,  np_min is -24.9375
+	your id_min=[52],  np id_min=[51]
+	your max is 28.02661,  np_max is 28.02661
+	your id_max=[424],  np id_max=[423]
+Run test 29,  pass is True
+	your min is -29.94987,  np_min is -29.9499
+	your id_min=[417],  np id_min=[416]
+	your max is 29.16783,  np_max is 29.16783
+	your id_max=[294, 490],  np id_max=[293 489]
+
+Congratulations, you passed all 30 tests for Problem 2!

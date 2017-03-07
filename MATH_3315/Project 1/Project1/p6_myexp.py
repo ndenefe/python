@@ -1,11 +1,27 @@
 #
-# add your name and smu email address here 
+# Noah Denefe ndenefe@smu.edu 
 #
 #===========================================================
-
+def factorial(n):
+    if n==0:
+        return 1
+    else:
+        return n*factorial(n-1)
+        
 def myexp_pos(x, tol=10**(-10)):
     ''' Input x is nonnegative real, compute exp(x) using Taylor series '''
-
+    s=1
+    i=1
+    ifact=1
+    t=1
+    while(abs(t)>tol):
+        ifact=factorial(i)
+        t=((x**i)/(ifact))
+        if(t>tol):
+            s+=((x**i)/(ifact))
+        i+=1
+        
+    return s
 
 
 #===========================================================
@@ -14,7 +30,9 @@ def myexp_neg(x, tol=10**(-10)):
         (The three returned values exp1, exp2, exp3 are computed using
         formulas specified in the project pdf file.)
     '''
-
+    exp1=1/(myexp_pos(-x,tol))
+    exp2=0
+    exp3=0
 
 
 

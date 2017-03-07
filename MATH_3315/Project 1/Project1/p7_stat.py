@@ -1,5 +1,5 @@
 #
-# put your name and smu email address here (add date etc for future reference)
+# Noah Denefe ndenefe@smu.edu
 #
 #===========================================================
 
@@ -9,8 +9,37 @@ def  stat_comp(n=100,  mean=1000,  deviation=0.32):
     ''' fill in the gap to fulfill the above listed tasks,  return the answers in 
         a tuple  (x, norm1, norm2,  sd11, sd12, sd21, sd22)
     '''
-
-
+    #x    
+    x=deviation*np.random.randn(n)+mean
+    
+    #\x\    
+    a=np.absolute(x)
+    
+    #xbar
+    xbar=(1/n)*np.sum(x)
+    
+    #\\x\\    
+    norm1=np.sum(a)    
+    #\\x\\2    
+    norm2=(np.sum(a**2))**(1/2)
+    
+    #sd11
+    sd11=0
+    for i in range(0,n):
+        sd11+=(x[i]**2)-(xbar**2)
+    sd11*=(1/n)
+    sd11=sd11**(1/2)
+    #sd12
+    sd12=0
+    for i in range(0,n):
+        sd12+=(x[i]-xbar)**2
+    sd12*=(1/n)
+    sd12=sd12**(1/2)    
+    #sd21
+    sd21=((1/n)*np.sum((x**2)-(xbar**2)))**(1/2)
+    #sd22
+    sd22=((1/n)*np.sum((x-xbar)**2))**(1/2)
+    
     return x, norm1, norm2, sd11, sd12, sd21, sd22
 
 

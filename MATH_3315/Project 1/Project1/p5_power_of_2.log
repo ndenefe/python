@@ -1,0 +1,223 @@
+
+
+ n1=-16384, pn1=-14;   n2=-512, pn2=-9
+power_of_2 for this test: [-16384, -8192, -4096, -2048, -1024, -512]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-4096, pn1=-12;   n2=32, pn2=5
+power_of_2 for this test: [-4096, -2048, -1024, -512, -256, -128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4, 8, 16, 32]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=128, pn1=7;   n2=512, pn2=9
+power_of_2 for this test: [128, 256, 512]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-2048, pn1=-11;   n2=-64, pn2=-6
+power_of_2 for this test: [-2048, -1024, -512, -256, -128, -64]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-4096, pn1=-12;   n2=32, pn2=5
+power_of_2 for this test: [-4096, -2048, -1024, -512, -256, -128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4, 8, 16, 32]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=128, pn1=7;   n2=512, pn2=9
+power_of_2 for this test: [128, 256, 512]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-131072, pn1=-17;   n2=-16384, pn2=-14
+power_of_2 for this test: [-131072, -65536, -32768, -16384]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-128, pn1=-7;   n2=64, pn2=6
+power_of_2 for this test: [-128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4, 8, 16, 32, 64]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=512, pn1=9;   n2=65536, pn2=16
+power_of_2 for this test: [512, 1024, 2048, 4096, 8192, 16384, 32768, 65536]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-131072, pn1=-17;   n2=-65536, pn2=-16
+power_of_2 for this test: [-131072, -65536]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-16384, pn1=-14;   n2=4, pn2=2
+power_of_2 for this test: [-16384, -8192, -4096, -2048, -1024, -512, -256, -128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=256, pn1=8;   n2=2048, pn2=11
+power_of_2 for this test: [256, 512, 1024, 2048]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-65536, pn1=-16;   n2=-32768, pn2=-15
+power_of_2 for this test: [-65536, -32768]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-1024, pn1=-10;   n2=128, pn2=7
+power_of_2 for this test: [-1024, -512, -256, -128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4, 8, 16, 32, 64, 128]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=64, pn1=6;   n2=64, pn2=6
+power_of_2 for this test: [64]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-128, pn1=-7;   n2=-64, pn2=-6
+power_of_2 for this test: [-128, -64]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-4096, pn1=-12;   n2=16, pn2=4
+power_of_2 for this test: [-4096, -2048, -1024, -512, -256, -128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4, 8, 16]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=4, pn1=2;   n2=4096, pn2=12
+power_of_2 for this test: [4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-16384, pn1=-14;   n2=-64, pn2=-6
+power_of_2 for this test: [-16384, -8192, -4096, -2048, -1024, -512, -256, -128, -64]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-256, pn1=-8;   n2=16, pn2=4
+power_of_2 for this test: [-256, -128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4, 8, 16]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=2, pn1=1;   n2=256, pn2=8
+power_of_2 for this test: [2, 4, 8, 16, 32, 64, 128, 256]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-262144, pn1=-18;   n2=-2, pn2=-1
+power_of_2 for this test: [-262144, -131072, -65536, -32768, -16384, -8192, -4096, -2048, -1024, -512, -256, -128, -64, -32, -16, -8, -4, -2]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-131072, pn1=-17;   n2=4, pn2=2
+power_of_2 for this test: [-131072, -65536, -32768, -16384, -8192, -4096, -2048, -1024, -512, -256, -128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=8, pn1=3;   n2=128, pn2=7
+power_of_2 for this test: [8, 16, 32, 64, 128]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-16384, pn1=-14;   n2=-4, pn2=-2
+power_of_2 for this test: [-16384, -8192, -4096, -2048, -1024, -512, -256, -128, -64, -32, -16, -8, -4]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-256, pn1=-8;   n2=8, pn2=3
+power_of_2 for this test: [-256, -128, -64, -32, -16, -8, -4, -2, -1, 1, 2, 4, 8]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=64, pn1=6;   n2=64, pn2=6
+power_of_2 for this test: [64]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
+Neither end-points are power_of_2 case: Passed!
+
+
+ n1=-8192, pn1=-13;   n2=-1024, pn2=-10
+power_of_2 for this test: [-8192, -4096, -2048, -1024]
+Both end-points are power_of_2 case: Passed!
+Left end-point is power_of_2 case: Passed!
+Right end-points is power_of_2 case: Passed!
